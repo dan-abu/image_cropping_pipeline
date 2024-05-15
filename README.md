@@ -16,7 +16,9 @@ We would like you to write some code that allows us to randomly sample from an i
 
 • Given an image, your code should be able to return 3 random samples from the image.
 
-• The 3 samples should not overlap. • A user should be able to configure the size of the samples to be generated.
+• The 3 samples should not overlap.
+
+• A user should be able to configure the size of the samples to be generated.
 
 • A user should receive meaningful errors if they provide arguments that are invalid.
 
